@@ -1,0 +1,49 @@
+html{
+  background-color: rgba(33, 33, 33, 33);
+  font-family: Comfortaa;
+  color: #fefefe;
+}
+#header1 {
+  
+}
+
+#sarkazm {
+  font-style: italic;
+}
+
+#spec {
+  font-weight: 300;
+  color: #dedede;
+}
+
+#spec1 {
+  font-weight: 700;
+  color: #febebe;
+}
+
+#mod {
+  font-weight: 400;
+  color: #bbfecf;
+}
+
+#link {
+  font-weight: 600;
+  color:#aaff;
+}
+
+img {
+  max-width: 90%;
+  margin-left: 5%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#rofl {
+  text-decoration: line-through;
+}
+
+#note {
+  background-color: rgb(45,45,45);
+  border-radius: 5px;
+  padding: 0px 2px;
+}
