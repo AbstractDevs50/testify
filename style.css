@@ -31,7 +31,7 @@ html{
   color:#aaff;
 }
 
-img {
+img, video {
   max-width: 90%;
   margin-left: 5%;
   margin-top: 5px;
@@ -42,8 +42,19 @@ img {
   text-decoration: line-through;
 }
 
+#element {
+  color: rgb(205, 205, 255);
+}
+
 #note {
   background-color: rgb(45,45,45);
   border-radius: 5px;
   padding: 0px 2px;
+}
+
+h4 {
+  margin-top: 8px;
+  padding: 1px 4px;
+  background-color: rgb(56, 33, 33);
+  border-radius: 4px;
 }
