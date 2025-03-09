@@ -3,9 +3,6 @@ html{
   font-family: Comfortaa;
   color: #fefefe;
 }
-#header1 {
-  
-}
 
 #sarkazm {
   font-style: italic;
@@ -31,7 +28,14 @@ html{
   color:#aaff;
 }
 
-img, video {
+img {
+  max-width: 90%;
+  margin-left: 5%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+video {
   max-width: 90%;
   margin-left: 5%;
   margin-top: 5px;
